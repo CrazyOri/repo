@@ -1,5 +1,5 @@
 // sortowanie przez wstawianie
-// www.algorytm.org
+//inpg931
 
 #include<iostream>
 using namespace std;
