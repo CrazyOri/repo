@@ -1,5 +1,5 @@
 //Sortpwanie liczb calkowitych metoda babelkowa
-//www.algorytm.org
+//inpg930
 
 #include<iostream>
 using namespace std;
