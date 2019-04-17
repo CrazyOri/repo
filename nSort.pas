@@ -1,5 +1,5 @@
 //sortowanie przez laczenie naturalne
-//www.algorytm.org
+//inpg930
 //(c)2005 Karol Kokoszka
 
 program sortowanieZ;
