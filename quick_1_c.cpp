@@ -1,5 +1,5 @@
 // sortowanie szybkie (quicksort)
-// www.algorytm.org
+// inpg931
 
 #include<iostream>
 using namespace std;
