@@ -1,5 +1,5 @@
 // sortowanie przez zliczanie (countingsort)
-// www.algorytm.org
+// inpg930
 
 #include<iostream>
 using namespace std;
