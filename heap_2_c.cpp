@@ -1,7 +1,7 @@
 /*
 Mariusz Redwanz
 HeapSort - sortowanie stogowe
-www.algorytm.org
+inpg930
 */
 
 #include<iostream>
