@@ -1,5 +1,9 @@
 //sortowanie przez laczenie naturalne
+<<<<<<< HEAD
 //inpg930
+=======
+//inpg931
+>>>>>>> branch
 //(c)2005 Karol Kokoszka
 
 program sortowanieZ;

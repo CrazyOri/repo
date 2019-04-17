@@ -2,7 +2,11 @@
 //uwaga: elementy tablicy w C numerowane sa od 0
 //       zatem nasza tablica ma indeksy od 0 do n-1
 //       a[0], a[1], ..., a[n-1]
+<<<<<<< HEAD
 //inpg930
+=======
+//inpg931
+>>>>>>> branch
 
 #include <iostream>
 using namespace std;

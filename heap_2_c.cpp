@@ -1,7 +1,11 @@
 /*
 Mariusz Redwanz
 HeapSort - sortowanie stogowe
+<<<<<<< HEAD
 inpg932
+=======
+inpg931
+>>>>>>> branch
 */
 
 #include<iostream>

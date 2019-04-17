@@ -1,6 +1,10 @@
 //Sortpwanie liczb calkowitych metoda babelkowa
+<<<<<<< HEAD
 //inpg930
 
+=======
+//inpg931
+>>>>>>> branch
 #include<iostream>
 using namespace std;
 

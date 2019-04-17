@@ -1,5 +1,9 @@
 // sortowanie przez scalanie (mergesort)
+<<<<<<< HEAD
 // inpg930
+=======
+// inpg931
+>>>>>>> branch
 
 #include<iostream>
 using namespace std;

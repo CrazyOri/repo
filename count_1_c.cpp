@@ -1,5 +1,9 @@
 // sortowanie przez zliczanie (countingsort)
+<<<<<<< HEAD
 // inpg930
+=======
+// inpg931
+>>>>>>> branch
 
 #include<iostream>
 using namespace std;
